@@ -1,0 +1,42 @@
+﻿  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Подпапка или файл C:\Ohagi\Studyy\2rd year\4rd semester\ООП\Kursovaia game\template-sfml2.5.1-win-ping-pong1\x86\Debug Dynamic\resources уже существует.
+  C:\Ohagi\Studyy\2rd year\4rd semester\ООП\Kursovaia game\template-sfml2.5.1-win-ping-pong1\resources\ball.wav
+  C:\Ohagi\Studyy\2rd year\4rd semester\ООП\Kursovaia game\template-sfml2.5.1-win-ping-pong1\resources\sansation.ttf
+  Скопировано файлов:         2.
+  main.cpp
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __thiscall Fishka::~Fishka(void)" (??1Fishka@@QAE@XZ) в функции _main
+extlibs\lib\x64\flac.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+extlibs\lib\x64\freetype.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+extlibs\lib\x64\ogg.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+extlibs\lib\x64\openal32.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+extlibs\lib\x64\sfml-audio-d.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+extlibs\lib\x64\sfml-audio-s-d.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+extlibs\lib\x64\sfml-audio-s.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+extlibs\lib\x64\sfml-audio.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+extlibs\lib\x64\sfml-graphics-d.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+extlibs\lib\x64\sfml-graphics-s-d.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+extlibs\lib\x64\sfml-graphics-s.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+extlibs\lib\x64\sfml-graphics.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+extlibs\lib\x64\sfml-main-d.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+extlibs\lib\x64\sfml-main.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+extlibs\lib\x64\sfml-network-d.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+extlibs\lib\x64\sfml-network-s-d.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+extlibs\lib\x64\sfml-network-s.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+extlibs\lib\x64\sfml-network.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+extlibs\lib\x64\sfml-system-d.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+extlibs\lib\x64\sfml-system-s-d.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+extlibs\lib\x64\sfml-system-s.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+extlibs\lib\x64\sfml-system.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+extlibs\lib\x64\sfml-window-d.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+extlibs\lib\x64\sfml-window-s-d.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+extlibs\lib\x64\sfml-window-s.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+extlibs\lib\x64\sfml-window.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+extlibs\lib\x64\vorbis.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+extlibs\lib\x64\vorbisenc.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+extlibs\lib\x64\vorbisfile.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+C:\Ohagi\Studyy\2rd year\4rd semester\ООП\Kursovaia game\template-sfml2.5.1-win-ping-pong1\x86\Debug Dynamic\template-sfml2.5.1-win-ping-pong1.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
